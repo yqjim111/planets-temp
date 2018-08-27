@@ -1,0 +1,2 @@
+why you need to add and commit? won't everyone who adds the file also 
+need to commit them?
